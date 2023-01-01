@@ -6,3 +6,6 @@ I've been sharing useful shortcuts with my coworkers and fellow technicians for 
 
 This was originally being hosted in a docker container on Google Cloud, now this is just being hosted through Github pages.
 Thanks for visiting!
+
+
+## https://brian-d-b.github.io/stop-clicking/
