@@ -1,4 +1,4 @@
-# Stop-Clicking.com
+# https://brian-d-b.github.io/stop-clicking/
 I've been sharing useful shortcuts with my coworkers and fellow technicians for years... and now I've finally decided to spin up a website that truly captures my passion and emphasis on it.
 
 ![image](https://user-images.githubusercontent.com/31077794/210187791-34823a18-0013-4f6e-bc09-40c05ebc45b2.png)
